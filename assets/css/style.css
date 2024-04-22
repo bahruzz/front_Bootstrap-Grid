@@ -1,0 +1,103 @@
+header .container {
+    background-color: hsl(180, 71%, 7%);
+    margin-bottom: 1px;
+}
+
+
+.icons {
+    border-bottom: 1px solid green;
+}
+
+.icon-images{
+    display: flex;
+    justify-content: flex-end;
+    cursor: pointer;
+}
+
+
+
+
+ .nav-items {
+    display: flex;
+    justify-content: flex-end;
+}
+
+h2{
+    color: white;
+    cursor: pointer;
+}
+
+.logo{
+    height: 60px;
+    display: flex;
+    align-items: center;
+}
+
+ul{
+    margin-bottom: 0px;
+    list-style: none;
+    display: flex;
+    gap: 10px;
+    color: rgb(218, 227, 203);
+}
+main .container{
+    background-color: rgb(116, 159, 29);
+   
+}
+
+
+
+#slider{
+    
+    height: 35vh;
+    width: 100%;
+    
+}
+
+
+
+#slider h1{
+    color: white;
+    cursor: pointer;
+    margin-top: 25px;
+    margin-left:  45px;
+}
+
+#slider p{
+    color: white;
+    height: 15px;
+    margin-left:45px ;
+    cursor: pointer;
+}
+
+#slider button{
+
+    margin-left: 575px;
+    margin-top: 50px;
+
+}
+
+#slider img{
+    margin-top: 25px;
+    margin-left: 140px;
+    width: 60%;
+    cursor: pointer;
+}
+
+
+#about {
+    height: 35vh;
+    width: 100%;
+}
+
+
+#about h1{
+    color: green;
+    height: 10px;
+    cursor: pointer;
+}
+
+#baout ul{
+    color: white;
+    gap: 10px;
+}
